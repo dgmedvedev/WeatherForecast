@@ -2,5 +2,7 @@
     <string name="app_name">Weather Forecast</string>
     <string name="button_clear">Clear</string>
     <string name="button_download">Download</string>
-    <string name="url_address"><![CDATA[http://api.openweathermap.org/data/2.5/weather?q=Minsk&appid={API key}]]></string>
+    <string name="url_json"><![CDATA[http://api.openweathermap.org/data/2.5/weather?q=Minsk&appid={API key}]]></string>
+    <string name="url_image"><![CDATA[https://www.esolve.co.za/images/assets/logo_OpenWeatherMap_orange_website.png]]></string>
+    <string name="logo_weather">Логотип погоды</string>
 </resources>

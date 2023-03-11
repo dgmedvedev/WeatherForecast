@@ -23,6 +23,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 public class MainActivity extends AppCompatActivity {
+    // Для работы приложения, необходимо добавить API key в urlAddress
 
     String json;
     String urlAddress;
